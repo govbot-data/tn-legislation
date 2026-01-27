@@ -69,6 +69,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Elections & Campaign Finance Subcommittee for 1/20/2026",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Taken off notice for cal in s/c  Elections & Campaign Finance Subcommittee of  State & Local Government Committee",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -111,7 +131,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0129&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0129&ga=114",
       "note": ""
     }
   ],
@@ -123,6 +143,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

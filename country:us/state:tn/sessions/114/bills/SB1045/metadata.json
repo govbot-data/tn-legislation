@@ -52,15 +52,27 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:44Z"
       }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Bowling",
+      "name": "Reeves",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Bowling\"}",
+      "person_id": "~{\"name\": \"Reeves\"}",
       "organization_id": null
     }
   ],
@@ -100,7 +112,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1045&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1045&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:44Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

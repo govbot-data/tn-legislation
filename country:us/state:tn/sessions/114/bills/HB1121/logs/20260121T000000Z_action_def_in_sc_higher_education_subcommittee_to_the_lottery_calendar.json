@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Action Def. in s/c  Higher Education Subcommittee to the Lottery Calendar",
+    "date": "2026-01-21",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB 1121"
+}

@@ -74,6 +74,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Withdrawn.",
+      "date": "2025-12-01",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "withdrawal"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -144,7 +156,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0379&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0379&ga=114",
       "note": ""
     }
   ],
@@ -156,6 +168,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-01-27T12:33:13Z"
   }
 }

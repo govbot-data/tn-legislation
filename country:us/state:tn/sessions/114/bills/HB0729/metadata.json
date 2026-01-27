@@ -318,15 +318,39 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:45Z"
       }
+    },
+    {
+      "description": "Sponsor(s) withdrawn.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Keisling",
+      "name": "Barrett",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Keisling\"}",
+      "person_id": "~{\"name\": \"Barrett\"}",
       "organization_id": null
     }
   ],
@@ -399,7 +423,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0729&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0729&ga=114",
       "note": ""
     }
   ],
@@ -411,6 +435,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

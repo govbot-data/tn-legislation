@@ -200,6 +200,18 @@
       }
     },
     {
+      "description": "Received from House, Passed on First Consideration",
+      "date": "2025-03-03",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:11Z"
+      }
+    },
+    {
       "description": "Enrolled; ready for sig. of H. Speaker.",
       "date": "2025-03-04",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -326,7 +338,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0104&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0104&ga=114",
       "note": ""
     }
   ],
@@ -338,6 +350,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:47Z"
+    "logs_latest_update": "2026-01-27T12:33:11Z"
   }
 }

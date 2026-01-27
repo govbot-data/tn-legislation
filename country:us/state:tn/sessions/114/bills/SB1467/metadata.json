@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "HB 1484"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -23,6 +27,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T02:28:51Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:13Z"
       }
     }
   ],
@@ -36,7 +64,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 1484",
+      "legislative_session": "114",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Current Version",
@@ -66,7 +100,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1467&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1467&ga=114",
       "note": ""
     }
   ],
@@ -78,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-01-27T12:33:13Z"
   }
 }

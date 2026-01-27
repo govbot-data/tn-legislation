@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Am. withdrawn. (Amendment 1 - HA0215)",
+    "date": "2026-01-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-withdrawal"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0884"
+}

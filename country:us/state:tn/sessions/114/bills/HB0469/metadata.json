@@ -132,6 +132,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:42Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal Business & Utilities Subcommittee for 1/28/2026",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Meeting Canceled",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -162,6 +182,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment SA0457",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0457.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -175,12 +206,23 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0457 (11478)",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1416.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0469&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0469&ga=114",
       "note": ""
     }
   ],
@@ -192,6 +234,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:42Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

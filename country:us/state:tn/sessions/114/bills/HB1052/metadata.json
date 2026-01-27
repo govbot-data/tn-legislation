@@ -105,6 +105,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:50Z"
       }
+    },
+    {
+      "description": "Placed on s/c cal K-12 Subcommittee for 1/20/2026",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Action Def. in s/c  K-12 Subcommittee to 2/3/2026",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -153,7 +173,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1052&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1052&ga=114",
       "note": ""
     }
   ],
@@ -165,6 +185,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:50Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

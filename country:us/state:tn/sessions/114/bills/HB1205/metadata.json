@@ -218,6 +218,16 @@
       }
     },
     {
+      "description": "Refer to Senate Health &  Welfare Committee",
+      "date": "2025-04-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:11Z"
+      }
+    },
+    {
       "description": "Senate substituted House Bill for companion Senate Bill.",
       "date": "2025-04-21",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -342,7 +352,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1205&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1205&ga=114",
       "note": ""
     }
   ],
@@ -354,6 +364,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:51Z"
+    "logs_latest_update": "2026-01-27T12:33:11Z"
   }
 }

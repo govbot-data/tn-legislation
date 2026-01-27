@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reset on Final calendar of Senate Education Committee",
+    "date": "2026-01-14",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0912"
+}

@@ -52,15 +52,27 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:54Z"
       }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-01-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Powers",
+      "name": "Lowe",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Powers\"}",
+      "person_id": "~{\"name\": \"Lowe\"}",
       "organization_id": null
     }
   ],
@@ -100,7 +112,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0328&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0328&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +124,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:54Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

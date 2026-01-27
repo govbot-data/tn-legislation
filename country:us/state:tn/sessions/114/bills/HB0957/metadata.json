@@ -64,6 +64,18 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:46Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -112,7 +124,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0957&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0957&ga=114",
       "note": ""
     }
   ],
@@ -124,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:46Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

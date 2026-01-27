@@ -11,7 +11,11 @@
   ],
   "abstracts": [],
   "other_titles": [],
-  "other_identifiers": [],
+  "other_identifiers": [
+    {
+      "identifier": "HB 1751"
+    }
+  ],
   "actions": [
     {
       "description": "Filed for introduction",
@@ -23,6 +27,30 @@
       "related_entities": [],
       "_processing": {
         "log_file_created": "2025-11-27T02:28:47Z"
+      }
+    },
+    {
+      "description": "Introduced, Passed on First Consideration",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Passed on Second Consideration, refer to Senate Transportation and Safety Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
       }
     }
   ],
@@ -36,7 +64,13 @@
       "organization_id": null
     }
   ],
-  "related_bills": [],
+  "related_bills": [
+    {
+      "identifier": "HB 1751",
+      "legislative_session": "114",
+      "relation_type": "companion"
+    }
+  ],
   "versions": [
     {
       "note": "Current Version",
@@ -50,11 +84,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/SB1477.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1477&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1477&ga=114",
       "note": ""
     }
   ],
@@ -66,6 +112,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:47Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

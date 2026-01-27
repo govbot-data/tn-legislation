@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "H. adopted am. (Amendment 2 - HA0541)",
+    "date": "2026-01-13",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "amendment-passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB 0884"
+}

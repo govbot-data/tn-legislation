@@ -52,15 +52,39 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:43Z"
       }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Sponsor change.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
     {
-      "name": "Oliver",
+      "name": "Akbari",
       "classification": "primary",
       "entity_type": "person",
       "primary": true,
-      "person_id": "~{\"name\": \"Oliver\"}",
+      "person_id": "~{\"name\": \"Akbari\"}",
       "organization_id": null
     }
   ],
@@ -100,7 +124,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1213&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1213&ga=114",
       "note": ""
     }
   ],
@@ -112,6 +136,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:43Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

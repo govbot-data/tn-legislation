@@ -116,6 +116,60 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:47Z"
       }
+    },
+    {
+      "description": "Placed on Senate Commerce and Labor Committee calendar for 1/20/2026",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Sponsor(s) Added.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "sponsorship"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 2/2/2026",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -146,6 +200,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment SA0457",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0457.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -159,12 +224,23 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for SA0457 (11478)",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1416.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0350&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0350&ga=114",
       "note": ""
     }
   ],
@@ -176,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:47Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

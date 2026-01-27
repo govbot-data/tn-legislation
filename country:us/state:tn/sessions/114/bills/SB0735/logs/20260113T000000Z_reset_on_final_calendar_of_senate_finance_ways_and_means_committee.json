@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Reset on Final calendar of Senate Finance, Ways, and Means Committee",
+    "date": "2026-01-13",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SB 0735"
+}

@@ -116,6 +116,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:45Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 1/13/2026",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways, and Means Committee to 4/7/2026",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -164,7 +184,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1152&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1152&ga=114",
       "note": ""
     }
   ],
@@ -176,6 +196,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

@@ -172,6 +172,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:49Z"
       }
+    },
+    {
+      "description": "Placed on cal. Education Committee for 1/27/2026",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Meeting Canceled",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -220,7 +240,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB0047&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB0047&ga=114",
       "note": ""
     }
   ],
@@ -232,6 +252,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:49Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

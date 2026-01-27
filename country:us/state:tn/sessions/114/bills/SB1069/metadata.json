@@ -214,6 +214,56 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:47Z"
       }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 1/13/2026",
+      "date": "2026-01-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Action deferred in Senate Finance, Ways, and Means Committee to 1/20/2026",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Finance, Ways, and Means Committee calendar for 1/20/2026",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Recommended for passage with amendment/s, refer to Senate Calendar Committee  Ayes 11, Nays 0 PNV 0",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "Placed on Senate Regular Calendar  for 2/2/2026",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -257,6 +307,17 @@
       "classification": ""
     },
     {
+      "note": "Amendment SA0458",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Amend/SA0458.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment HA0076",
       "links": [
         {
@@ -286,6 +347,10 @@
         {
           "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM0308.pdf",
           "media_type": ""
+        },
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1396.pdf",
+          "media_type": ""
         }
       ],
       "date": "",
@@ -295,7 +360,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1069&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1069&ga=114",
       "note": ""
     }
   ],
@@ -307,6 +372,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:47Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

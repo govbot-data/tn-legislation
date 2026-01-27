@@ -332,6 +332,26 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:52Z"
       }
+    },
+    {
+      "description": "H. Placed on Message Calendar for 1/14/2026",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
+    },
+    {
+      "description": "H. refused to recede from H. am. no. 2",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -534,7 +554,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB0714&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB0714&ga=114",
       "note": ""
     }
   ],
@@ -546,6 +566,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:52Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

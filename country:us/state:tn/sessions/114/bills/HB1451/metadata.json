@@ -24,6 +24,42 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:53Z"
       }
+    },
+    {
+      "description": "Intro., P1C.",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:11Z"
+      }
+    },
+    {
+      "description": "Assigned to s/c Cities & Counties Subcommittee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:11Z"
+      }
+    },
+    {
+      "description": "P2C, ref. to State & Local Government Committee",
+      "date": "2026-01-14",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:11Z"
+      }
     }
   ],
   "sponsorships": [
@@ -50,11 +86,23 @@
       "classification": ""
     }
   ],
-  "documents": [],
+  "documents": [
+    {
+      "note": "Fiscal Note",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/HB1451.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HB1451&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HB1451&ga=114",
       "note": ""
     }
   ],
@@ -66,6 +114,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:53Z"
+    "logs_latest_update": "2026-01-27T12:33:11Z"
   }
 }

@@ -124,6 +124,16 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:45Z"
       }
+    },
+    {
+      "description": "Placed on Senate Judiciary Committee calendar for 1/27/2026",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:12Z"
+      }
     }
   ],
   "sponsorships": [
@@ -165,6 +175,17 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Amendment HA0541",
+      "links": [
+        {
+          "url": "https://www.capitol.tn.gov/Bills/114/Amend/HA0541.pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "documents": [
@@ -189,12 +210,23 @@
       ],
       "date": "",
       "classification": ""
+    },
+    {
+      "note": "Fiscal Memo for HA0541 (11084)",
+      "links": [
+        {
+          "url": "http://www.capitol.tn.gov/Bills/114/Fiscal/FM1403.pdf",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
     }
   ],
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=SB1424&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=SB1424&ga=114",
       "note": ""
     }
   ],
@@ -206,6 +238,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:45Z"
+    "logs_latest_update": "2026-01-27T12:33:12Z"
   }
 }

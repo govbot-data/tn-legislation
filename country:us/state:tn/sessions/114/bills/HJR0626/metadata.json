@@ -73,6 +73,30 @@
       "_processing": {
         "log_file_created": "2025-11-27T02:28:48Z"
       }
+    },
+    {
+      "description": "Assigned to s/c Agriculture & Natural Resources Subcommittee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:13Z"
+      }
+    },
+    {
+      "description": "Intro., ref. to Agriculture & Natural Resources Committee",
+      "date": "2026-01-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-01-27T12:33:13Z"
+      }
     }
   ],
   "sponsorships": [
@@ -103,7 +127,7 @@
   "citations": [],
   "sources": [
     {
-      "url": "http://wapp.capitol.tn.gov/apps/BillInfo/default.aspx?BillNumber=HJR0626&GA=114",
+      "url": "https://wapp.capitol.tn.gov/apps/BillInfo/Default?BillNumber=HJR0626&ga=114",
       "note": ""
     }
   ],
@@ -115,6 +139,6 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2025-11-27T02:28:48Z"
+    "logs_latest_update": "2026-01-27T12:33:13Z"
   }
 }
