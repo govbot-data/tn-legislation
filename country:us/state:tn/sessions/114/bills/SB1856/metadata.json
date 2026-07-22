@@ -113,6 +113,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:14:00Z"
+    "logs_latest_update": "2026-07-21T21:14:00Z",
+    "text_extraction_latest_update": "2026-07-22T01:32:22.203685Z"
   }
 }
