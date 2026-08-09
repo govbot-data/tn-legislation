@@ -117,16 +117,6 @@
       }
     },
     {
-      "description": "Placed on cal. Calendar & Rules Committee for 3/13/2025",
-      "date": "2025-03-12",
-      "organization_id": "~{\"classification\": \"lower\"}",
-      "classification": [],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T21:14:11Z"
-      }
-    },
-    {
       "description": "Rec. for pass; ref to  Calendar & Rules Committee",
       "date": "2025-03-12",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -149,11 +139,11 @@
       }
     },
     {
-      "description": "Sponsor(s) Added.",
+      "description": "Adopted,  Ayes 92, Nays 0, PNV 1",
       "date": "2025-03-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "sponsorship"
+        "passage"
       ],
       "related_entities": [],
       "_processing": {
@@ -161,11 +151,11 @@
       }
     },
     {
-      "description": "Adopted,  Ayes 92, Nays 0, PNV 1",
+      "description": "Sponsor(s) Added.",
       "date": "2025-03-17",
       "organization_id": "~{\"classification\": \"lower\"}",
       "classification": [
-        "passage"
+        "sponsorship"
       ],
       "related_entities": [],
       "_processing": {
@@ -393,7 +383,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:14:11Z",
+    "logs_latest_update": "2026-08-09T06:12:14Z",
     "text_extraction_latest_update": "2026-07-22T08:41:55.964065Z"
   }
 }
