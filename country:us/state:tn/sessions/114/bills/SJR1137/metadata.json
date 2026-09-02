@@ -31,18 +31,6 @@
       }
     },
     {
-      "description": "Passed on Second Consideration, refer to Senate Calendar Committee",
-      "date": "2026-04-15",
-      "organization_id": "~{\"classification\": \"upper\"}",
-      "classification": [
-        "referral-committee"
-      ],
-      "related_entities": [],
-      "_processing": {
-        "log_file_created": "2026-07-21T21:14:10Z"
-      }
-    },
-    {
       "description": "Introduced, Passed on First Consideration",
       "date": "2026-04-15",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -247,7 +235,7 @@
     "division_id": "ocd-division/country:us/state:tn"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-21T21:14:10Z",
+    "logs_latest_update": "2026-09-02T09:59:47Z",
     "text_extraction_latest_update": "2026-07-22T01:47:55.873525Z"
   }
 }
